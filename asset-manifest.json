@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dhoffens.github.io/dhoffens.github.io/static/css/main.2b1c0550.chunk.css",
-    "main.js": "/dhoffens.github.io/dhoffens.github.io/static/js/main.6d1afcdd.chunk.js",
-    "main.js.map": "/dhoffens.github.io/dhoffens.github.io/static/js/main.6d1afcdd.chunk.js.map",
-    "runtime-main.js": "/dhoffens.github.io/dhoffens.github.io/static/js/runtime-main.1bbd17ff.js",
-    "runtime-main.js.map": "/dhoffens.github.io/dhoffens.github.io/static/js/runtime-main.1bbd17ff.js.map",
-    "static/js/2.589bd419.chunk.js": "/dhoffens.github.io/dhoffens.github.io/static/js/2.589bd419.chunk.js",
-    "static/js/2.589bd419.chunk.js.map": "/dhoffens.github.io/dhoffens.github.io/static/js/2.589bd419.chunk.js.map",
-    "index.html": "/dhoffens.github.io/dhoffens.github.io/index.html",
-    "precache-manifest.fabe0a99a0116f9e2bfbd878a5aa91e9.js": "/dhoffens.github.io/dhoffens.github.io/precache-manifest.fabe0a99a0116f9e2bfbd878a5aa91e9.js",
-    "service-worker.js": "/dhoffens.github.io/dhoffens.github.io/service-worker.js",
-    "static/css/main.2b1c0550.chunk.css.map": "/dhoffens.github.io/dhoffens.github.io/static/css/main.2b1c0550.chunk.css.map",
-    "static/js/2.589bd419.chunk.js.LICENSE.txt": "/dhoffens.github.io/dhoffens.github.io/static/js/2.589bd419.chunk.js.LICENSE.txt"
+    "main.css": "/dhoffens.github.io/dhoffens.com/static/css/main.2b1c0550.chunk.css",
+    "main.js": "/dhoffens.github.io/dhoffens.com/static/js/main.dbbb3df6.chunk.js",
+    "main.js.map": "/dhoffens.github.io/dhoffens.com/static/js/main.dbbb3df6.chunk.js.map",
+    "runtime-main.js": "/dhoffens.github.io/dhoffens.com/static/js/runtime-main.0336778b.js",
+    "runtime-main.js.map": "/dhoffens.github.io/dhoffens.com/static/js/runtime-main.0336778b.js.map",
+    "static/js/2.9d598bf2.chunk.js": "/dhoffens.github.io/dhoffens.com/static/js/2.9d598bf2.chunk.js",
+    "static/js/2.9d598bf2.chunk.js.map": "/dhoffens.github.io/dhoffens.com/static/js/2.9d598bf2.chunk.js.map",
+    "index.html": "/dhoffens.github.io/dhoffens.com/index.html",
+    "precache-manifest.d3fe00aac3a36f73833b87cdef397ff6.js": "/dhoffens.github.io/dhoffens.com/precache-manifest.d3fe00aac3a36f73833b87cdef397ff6.js",
+    "service-worker.js": "/dhoffens.github.io/dhoffens.com/service-worker.js",
+    "static/css/main.2b1c0550.chunk.css.map": "/dhoffens.github.io/dhoffens.com/static/css/main.2b1c0550.chunk.css.map",
+    "static/js/2.9d598bf2.chunk.js.LICENSE.txt": "/dhoffens.github.io/dhoffens.com/static/js/2.9d598bf2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1bbd17ff.js",
-    "static/js/2.589bd419.chunk.js",
+    "static/js/runtime-main.0336778b.js",
+    "static/js/2.9d598bf2.chunk.js",
     "static/css/main.2b1c0550.chunk.css",
-    "static/js/main.6d1afcdd.chunk.js"
+    "static/js/main.dbbb3df6.chunk.js"
   ]
 }
